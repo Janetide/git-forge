@@ -1,5 +1,9 @@
 # git-forge
 
+[![make.fun](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01)
+[![Rank](https://make.fun/badge/github-core-clone-01/Janetide/git-forge/rank.svg)](https://make.fun/bounty/github-core-clone-01)
+[![Reward](https://make.fun/badge/github-core-clone-01/Janetide/git-forge/reward.svg)](https://make.fun/bounty/github-core-clone-01)
+
 A standalone GitHub-compatible git forge: one process serving git smart HTTP,
 REST v3, GraphQL v4 and MCP from its own in-memory store. No UI, no outside
 service, no dependencies — Node 22 standard library only.
